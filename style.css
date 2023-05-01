@@ -1,0 +1,157 @@
+body{
+    background-color: #0F0A16;
+}
+
+.fixed-top {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #201431;
+}
+
+nav ul {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style: none;
+}
+
+nav li {
+  margin: 0 20px;
+}
+
+nav li a {
+  font-family: 'Bebas Neue';
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.lead{
+  margin-top: 180px;
+  font-family: 'Bebas Neue';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 44px;
+  color: #FFFFFF;
+  text-transform: uppercase;
+}
+
+.lead span{
+  color: #4F52FF;
+}
+
+
+h1.chamada{
+    font-family: 'Bebas Neue';
+    font-style: bold;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 50px;
+    padding-top: 500px;
+
+    color: #FFFFFF;
+
+}
+
+.chamada span {
+    color: #4F52FF;
+}
+
+.btn {
+    font-size: 35PX;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 15px 30px;
+  }
+  .btn-primary {
+    background-color: #1C1427;
+    border-color: #1C1427;
+  }
+  .btn-primary:hover {
+    background-color: #2D2E8B;
+    border-color: #2D2E8B;
+  }
+  
+  h2.lista{
+    font-family: 'Bebas Neue';
+    font-style: bold;
+    font-weight: 800;
+    font-size: 60px;
+    line-height: 80px;
+    text-align: center;
+    margin-top: 400px;
+    margin-bottom: 50px;
+
+    color: #FFFFFF;
+  }
+
+  .lista span{
+    color: #4F52FF;
+
+  }
+
+  ul{
+    text-align: center;
+    font-family: 'Bebas Neue';
+    font-weight: 900;
+    font-size: 35px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+
+  }
+
+  li {
+    white-space: nowrap;
+    margin-bottom: 10px;
+
+  }
+  
+  footer {
+    background-color: black;
+    color: #FFFFFF;
+    font-size: 18px;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  .container2 {
+    display: block;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    background-color: #f2f2f2;
+  }
+  
+  .container2 h2 {
+    text-align: center;
+    margin: 0;
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: bolder;
+    text-transform: uppercase;
+    font-size: 35px;
+    color: #4F52FF;
+    display: block;
+    padding-top: 50px;
+    margin-top: 360px;
+    font-weight: 800px;
+  }
+  
+  .container2 h3{
+    
+    text-align: center;
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 34px;
+    text-transform: uppercase;
+    color: black;
+    margin-top: 10px;
+    display: block;
+    font-weight: 800px;
+
+
+  }
